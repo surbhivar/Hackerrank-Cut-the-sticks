@@ -12,6 +12,7 @@ int small_cal(){
     if(cnt != 0)cout << cnt << endl;
     return small;
 }
+//Main Function
 int main(){
 
     cin >> n;
